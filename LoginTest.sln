@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginTest.Web", "LoginTest.Web\LoginTest.Web.csproj", "{1F74946F-78B6-4350-846D-B292BFF71554}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LoginTest.SeleniumTests", "LoginTest.SeleniumTests\LoginTest.SeleniumTests.csproj", "{345840A3-3827-408A-9A5D-EC123BD70506}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{1F74946F-78B6-4350-846D-B292BFF71554}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1F74946F-78B6-4350-846D-B292BFF71554}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1F74946F-78B6-4350-846D-B292BFF71554}.Release|Any CPU.Build.0 = Release|Any CPU
+		{345840A3-3827-408A-9A5D-EC123BD70506}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{345840A3-3827-408A-9A5D-EC123BD70506}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{345840A3-3827-408A-9A5D-EC123BD70506}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{345840A3-3827-408A-9A5D-EC123BD70506}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
